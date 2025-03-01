@@ -62,8 +62,8 @@ Accuracy, Precision, Recall, F1-score.
 
 | **Model**             | **Training Accuracy** | **Testing Accuracy** | **Observations** |
 |----------------------|------------------|------------------|------------------------|
-|  Decision Tree | 98.21%            | 94.56%            | Balanced performance |
-| Random Forest       | 98.21%            | 95.82%            | Tends to overfit |
+|  Decision Tree | 98.21%            | 94.56%            | Little Overfit |
+| Random Forest       | 98.21%            | 95.82%            | Little Overfit |
 
 ## 📌 Key Takeaways
 ✅ Invoice processing time and Outbound logistics time are major contributors to delays.
